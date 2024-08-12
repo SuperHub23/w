@@ -3,6 +3,7 @@ local myTable = {
   "00000000000000000000001a7dda7110",
   "987654321"
 }
+end
 
 -- Print all elements in the table
 for i, value in ipairs(myTable) do
